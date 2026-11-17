@@ -3,7 +3,7 @@ name = "SigmaOS-buck2"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "buck2 component"
+description = "Buck2"
 upstream = []
 
 [contract]
